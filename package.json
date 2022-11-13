@@ -1,0 +1,14 @@
+{
+  "name": "ct30a3204_week2_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oskari Suonpää",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
